@@ -1,0 +1,2 @@
+# minimalhost
+minimal boiler plate
