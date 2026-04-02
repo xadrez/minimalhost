@@ -1,10 +1,10 @@
-const express = require('express');
-const app = express();
+const express = require('express')
+const app = express()
 
 app.get('/', (req, res) => {
-    res.send('It works!');
+    res.send('It works!')
 });
 
 app.listen(process.env.PORT || 3000, () => {
-    console.log('Server is running');
-});
+    console.log('Server is running')
+})
