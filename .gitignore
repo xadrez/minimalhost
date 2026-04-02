@@ -1,3 +1,6 @@
-#Ignore node modules
+#Dependencies
 node__modules/
-*.env
+
+#Environment variables
+.env
+.env.*
